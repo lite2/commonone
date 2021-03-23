@@ -1,6 +1,0 @@
-p {
-    border: 5px solid {{ border_colour }};
-    color: {{ text_colour }};
-    font-size: 72px;
-    padding: 20px;
-}
